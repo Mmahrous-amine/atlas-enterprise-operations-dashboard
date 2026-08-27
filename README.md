@@ -7,7 +7,7 @@ Atlas Solutions Group is a fictional multi-office professional services organiza
 The objective of the project was to build an end-to-end business intelligence solution that gives management a centralized view of financial performance, project delivery, operational risk, workforce utilization, and capacity.
 
 Operational data was transformed, modeled, analyzed, and presented through a three-page Power BI dashboard designed to support executive and operational decision-making.
-
+ 
 ## Dashboard Preview
 
 ### Executive Operations Overview
