@@ -25,6 +25,23 @@ Operational data was transformed, modeled, analyzed, and presented through a thr
 - `executive-overview.png` — Executive Operations Overview dashboard
 - `projects-risk.png` — Projects & Risk dashboard
 - `Workforce-Capacity.png` — Workforce & Capacity dashboard
+
+## Data Model
+
+The analysis uses a structured operational dataset covering multiple areas of the organization, including departments, offices, employees, projects, project tasks, financial performance, workforce hours, and operational KPIs.
+
+The data was prepared and transformed using Power Query before being modeled in Power BI. Relationships between business tables were used to support analysis across financial performance, project delivery, workforce utilization, and capacity.
+
+The model supports cross-functional analysis across:
+
+- Offices and regions
+- Departments and employees
+- Projects and project types
+- Project budgets and actual costs
+- Revenue and operating costs
+- Workforce hours and utilization
+- Operational performance indicators
+  
   
 ## Business Objectives
 
