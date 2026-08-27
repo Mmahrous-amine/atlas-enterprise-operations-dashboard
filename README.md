@@ -8,6 +8,17 @@ The objective of the project was to build an end-to-end business intelligence so
 
 Operational data was transformed, modeled, analyzed, and presented through a three-page Power BI dashboard designed to support executive and operational decision-making.
 
+## Dashboard Preview
+
+### Executive Operations Overview
+![Executive Operations Overview](executive-overview.png)
+
+### Projects & Risk
+![Projects and Risk Dashboard](projects-risk.png)
+
+### Workforce & Capacity
+![Workforce and Capacity Dashboard](Workforce-Capacity.png)
+
 ## Business Objectives
 
 The analysis was designed to answer key operational questions:
