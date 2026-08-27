@@ -19,6 +19,13 @@ Operational data was transformed, modeled, analyzed, and presented through a thr
 ### Workforce & Capacity
 ![Workforce and Capacity Dashboard](Workforce-Capacity.png)
 
+## Project Files
+
+- `Atlas_Solutions_Group_project.xlsx` — source operational dataset used for data preparation, modeling, and analysis
+- `executive-overview.png` — Executive Operations Overview dashboard
+- `projects-risk.png` — Projects & Risk dashboard
+- `Workforce-Capacity.png` — Workforce & Capacity dashboard
+  
 ## Business Objectives
 
 The analysis was designed to answer key operational questions:
