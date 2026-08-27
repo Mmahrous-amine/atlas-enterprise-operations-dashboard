@@ -85,7 +85,7 @@ Provides a focused view of project portfolio health, delivery performance, and f
 
 Key metrics and analysis include:
 
-- At-Risk Client Value
+- At-Risk Project Value
 - Delayed Projects
 - Active Projects
 - At-Risk Projects
@@ -93,7 +93,7 @@ Key metrics and analysis include:
 - Operating Margin
 - At-Risk Projects by Project Type
 - Project Status Breakdown
-- At-Risk Client Value by Project Type
+- At-Risk Project Value by Project Type
 - Delayed Projects by Office
 - Budget vs. Actual Cost by Project Type
 
@@ -110,7 +110,7 @@ Key metrics and analysis include:
 - Billable Utilization
 - Total Employees
 - Average Utilization
-- Overallocated Employees
+- Employees Over Plan
 - Available Capacity
 - Employee Capacity Risk
 - Monthly Utilization Trend
